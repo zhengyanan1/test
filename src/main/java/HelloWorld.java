@@ -4,5 +4,6 @@
 public class HelloWorld {
     public static void main(String[] args){
         System.out.println("HelloWorld.main():" + "Hello World!");
+        System.out.println("HelloWorld.main():" + "Let's go!");
     }
 }
